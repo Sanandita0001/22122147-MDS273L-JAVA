@@ -15,7 +15,7 @@ Steps of solving LAB1:
 To save the code in github,do the following:
 # git add --all
 # git commit -m "lab 1"
-# git config --global user.email satyajit.pandey@msds.christuniversity.in
+# git config --global user.email sanandita.maji@msds.christuniversity.in
 # --global user.name "Lab 01"
 # git commit -m "lab 1"
 # git push
